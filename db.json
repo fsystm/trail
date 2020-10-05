@@ -1,0 +1,142 @@
+{
+"HomePage": [
+    {
+      "title": "title",
+      "img": "https://cdn.flickeringmyth.com/wp-content/uploads/2018/10/the-boys-1.jpg"
+    }
+  ],
+  "sitmovAPI": [
+    {
+      "title": "Mr. Robot",
+      "id": "mr-robot",
+      "pic": "https://i.pinimg.com/originals/db/33/72/db337203ba068cbb11175657910e22a6.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_SY1000_CR0,0,672,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_SY1000_CR0,0,664,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjM5MzIyNTc2OV5BMl5BanBnXkFtZTcwNzI4MzQ5OQ@@._V1_SY1000_CR0,0,664,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNzJkNWQ3Y2YtNmVhNC00ODE4LTg2NTQtM2U5NmFjMjExM2IxXkEyXkFqcGdeQXVyMzIxNTMwMQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fkingoftheflatscreen.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fportia_doubleday_02.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fm-o%2Fthumbs%2Fmichael-cristofer-189243_828x1104.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTkwNTAwMjAwM15BMl5BanBnXkFtZTgwODI5NDE3NTE@._V1_SY1000_SX800_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fa-b%2Fthumbs%2Fbd-wong_sc_768x1024.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fstephanie-corneliussen-gq-20th-anniversary-men-of-the-year-party-in-los-angeles-ca-2.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "8.5",
+      "trailer": "https://www.youtube.com/embed/N6HGuJC--rk",
+      "details": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression.",
+      "season": "4",
+      "episodes": "46",
+      "country": "us",
+      "kind": "Drama, Techno thriller, Psychological thriller",
+      "years": "2015-2019"
+    },
+    {
+      "title": "Stranger Things",
+      "id": "stranger-things",
+      "pic": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTQ3NzM3MTc2NF5BMl5BanBnXkFtZTcwODMxNjA0NA@@._V1_SY1000_CR0,0,734,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BZTc5ODUzMDAtZGFhZS00NmExLTlhYWYtZDY0NGI2MGMwYTIzXkEyXkFqcGdeQXVyODY0MzQyODc@._V1_SY999_CR0,0,804,999_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BYjM2NmFiNGYtODQ1OC00ZTE5LTg4ZWYtYjFmODk4YmUyZDMzXkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_SY1000_SX800_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fmillie-bobby-brown-paleyfest-2018-stranger-things-in-hollywood-9.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNTkyNDIyMzQ5OF5BMl5BanBnXkFtZTgwNDUwMDM2NDM@._V1_SY1000_CR0,0,646,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BOTY2NDY0NDgwNF5BMl5BanBnXkFtZTgwNTE3NTUzNjM@._V1_SY1000_CR0,0,658,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fnatalia-dyer-2018-critics-choice-awards-1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjEyNDUxOTAzNF5BMl5BanBnXkFtZTgwMjc3OTIxMjE@._V1_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.fandango.com%2FImageRenderer%2F0%2F0%2Fredesign%2Fstatic%2Fimg%2Fdefault_poster.png%2F0%2Fimages%2Fmasterrepository%2Fperformer%2520images%2Fp799579%2FJoeKeery.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://www.imdb.com/name/nm0120648/mediaviewer/rm1420459008"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fecelebrityfacts.com%2Fimages%2F96522%2Fnoah-schnapp-1509947614.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjgzNjJiMjgtMzllZS00NGRjLTgyOWEtYzVhNzgxODE0ZDA3XkEyXkFqcGdeQXVyNTU0OTE5MjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      ],
+      "imdb": "8.8",
+      "trailer": "https://www.youtube.com/embed/b9EkMc79ZSU",
+      "details": "Stranger Things is an American science fiction horror web television series created by the Duffer Brothers and released on Netflix. The twins serve as showrunners and are executive producers along with Shawn Levy and Dan Cohen. The series premiered on Netflix on July 15, 2016.",
+      "season": "3",
+      "episodes": "33",
+      "country": "us",
+      "kind": "Science fiction, Horror, Period drama",
+      "years": "2016-"
+    },
+    {
+      "title": "Snowpiercer",
+      "id": "snowpiercer",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.comicbook.com%2F2020%2F01%2Fsnowpiercer-tv-series-poster-1203209.jpeg%3Fauto%3Dwebp%26width%3D1000%26height%3D1481%26crop%3D1000%3A1481%2Csmart&f=1&nofb=1",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY5NzA2ODI1MV5BMl5BanBnXkFtZTgwMzg1OTg4ODE@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMDlkMjAzYzAtYjFiNy00ODUxLTlkNDYtNmRkYzNkMGRiMzk2XkEyXkFqcGdeQXVyMjY5MzM3OTk@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hawtcelebs.com%2Fwp-content%2Fuploads%2F2017%2F09%2Falison-wright-at-creative-arts-emmy-awards-in-los-angeles-09-10-2017_1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fannalise-basso-68th-annual-emmy-awards-in-los-angeles-09-18-2016-1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmusicimage.xboxlive.com%2Fcatalog%2Fvideo.contributor.332f6500-0200-11db-89ca-0019b92a3933%2Fimage%3Flocale%3Dpt-br%26target%3Dcircle&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjI3NTU5OTg5Nl5BMl5BanBnXkFtZTgwMDY2OTEzNjE%40._V1_.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.fandango.com%2FImageRenderer%2F0%2F0%2Fredesign%2Fstatic%2Fimg%2Fdefault_poster.png%2F0%2Fimages%2Fmasterrepository%2Fperformer%2520images%2Fp729370%2Fwhiskeytangofoxtrot-pm-12.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "6.7",
+      "trailer": "https://www.youtube.com/embed/lGcJL6TG5cA",
+      "details": "Seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a perpetually-moving train that circles the globe, where class warfare, social injustice and the politics of survival play out.",
+      "season": "1",
+      "episodes": "10",
+      "country": "us",
+      "kind": "Action, Drama, Sci-Fi ",
+      "years": "2020-"
+    }
+  ]
+}
